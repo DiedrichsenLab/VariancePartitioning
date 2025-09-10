@@ -31,6 +31,7 @@ def calc_r2(r_y1, r_y2, r12):
     return RY12, DET
 
 
+
 def quadratic(a, b, c):
     """ Solution of quadratic equation"""
     D = b ** 2 - 4 * a * c
